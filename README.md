@@ -1,1 +1,3 @@
-# Struktur-Data-Assignmentt
+# Nama : Fatimah Az Zahra
+# NIM  : 2211...
+# Kelas: IF-10-K
